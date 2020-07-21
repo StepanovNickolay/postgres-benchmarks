@@ -7,7 +7,7 @@ All benchmarks are reproducible, local result and some thoughts are present in e
 All benchmarks were running on LINUX, Intel Core i7-8700, 16G RAM.
 
 ## Benchmarks:
-- [Count and distinct](./offset/results.md)
+- [Count and distinct](./count_distinct/results.md)
 
 ## How to run
 
