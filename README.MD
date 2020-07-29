@@ -8,6 +8,7 @@ All benchmarks were running on LINUX, Intel Core i7-8700, 16G RAM.
 
 ## Benchmarks:
 - [Count and distinct](./count_distinct/results.md)
+- [PgBench](./pgbench/results.md)
 
 ## How to run
 
